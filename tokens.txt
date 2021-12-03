@@ -1,0 +1,13 @@
+google chrome: qDDcc0RxzsAAE5OROMOb ?? vuKz4Me5kblX1oIp3oCJ (12 font) ?? fmulIyYiEPDzaZHlDab6 (10 font) ?? YQkhakJftbI2YrtMLc8G (incognito?)
+		?? GIxtZBmfYOSrIUlOUHS1 (4 plugins)
+
+opera: 359b3eB0V2g9ZkmqvGke
+
+opera VPN + incognito: (asia) G065KobK9e1M0BcbRbqO ?? hbUPz3MM36uyBVt4Qr5p ?? (americas) VcaylNRjRiqKv4PurPPT ?? (europe) GZS686dURHgf2jxfG5BK
+
+edge: flXHNVok9cwWKKIuadWs ?? jOLRWQlKOTMfTnYPd4je(incognito) ?? FplIyQ7sjMPllHbPoNNF(incognito) ?? 75Goz6yN297cmwNbTgFa
+ 
+1.fonts
+2.incognito+vpn
+3.plugins
+4.incognito->edge
